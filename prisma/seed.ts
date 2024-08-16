@@ -10,4 +10,4 @@ const seed = async () => {
     ],
   });
 };
-seed();
+seed();//Gwapo ko
